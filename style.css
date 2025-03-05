@@ -310,6 +310,10 @@ color:  hsl(136, 65%, 51%)
     filter: invert(55%) sepia(90%) saturate(500%) hue-rotate(100deg); 
 }
 
+.invite-btn:hover{
+  background: linear-gradient(135deg, hsl(136, 92%, 75%), hsl(192, 80%, 70%));;
+}
+
 @media (min-width: 1440px) {
     html, body {
       font-size: var(--font-size);
